@@ -1,0 +1,19 @@
+page-hotel {
+   
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 30%;
+    width: 100%;
+    border: 1px solid #333;
+}
+.image {
+    width: 50%;
+    border: 1px solid #c00;
+}
+.info {
+    width: 50%;
+    border: 1px solid #cc0;
+}
+
+}
